@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+
 <!--
 **siddeq-asmad/siddeq-asmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![Static Badge](https://img.shields.io/badge/Excel-Analyst-green?logo=microsoftexcel&color=217346)
+![Static Badge](https://img.shields.io/badge/Python-Explorer-blue?logo=python&logoColor=white&color=FFD343),
+![Static Badge](https://img.shields.io/badge/SQL-Specialist-blue?logo=postgresql&logoColor=white&color=336791)
+![Static Badge](https://img.shields.io/badge/Tableau-Elucidator-orange?logo=tableau&logoColor=white&color=E97627)
 
 Here are some ideas to get you started:
 
