@@ -1,10 +1,11 @@
-## Hi 👋, I'm Sid.
-- 🔭 Currently a data analytics student at Masterschool.
-- 🌱 At the moment, I'm learning Statistics.
+## Hi, I'm Sid. 👋
+
 
 <!--
 **siddeq-asmad/siddeq-asmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🔭 I am currently a data analytics student at Masterschool working on enhancing my skills through personal and collaborative projects.
+- 🌱 At the moment, I'm learning advanced data analytics techniques.
 
 ![Static Badge](https://img.shields.io/badge/Excel-Analyst-green?logo=microsoftexcel&color=217346)
 ![Static Badge](https://img.shields.io/badge/Python-Explorer-blue?logo=python&logoColor=white&color=FFD343),
