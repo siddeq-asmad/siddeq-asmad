@@ -12,6 +12,13 @@
 ![Static Badge](https://img.shields.io/badge/SQL-Specialist-blue?logo=postgresql&logoColor=white&color=336791)
 ![Static Badge](https://img.shields.io/badge/Tableau-Elucidator-orange?logo=tableau&logoColor=white&color=E97627)
 
+## Recent Learning Achievements
+I'm on the verge of completing a rigorous data analytics bootcamp at Masterschool. 
+
+## Tools and Frameworks
+Business Intelligence: Tableau
+Data Processing and Analysis: Excel, Python, SQL
+
 Here are some ideas to get you started:
 
  ...
