@@ -1,18 +1,24 @@
-# Hi, I'm Sid. 👋🏻
+<h1 align='center'>
+  Hello, I'm Sid 👋🏼
+</h1>
 
-### Experience
-> **Data Analyst** <br>
-The Analytics Accelerator, Remote<br>
-May - July 2024<br><br>
-![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align='center'>
+  <a href="mailto:siddeqasmad@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/siddeq-asmad/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
 
-### Education
+
+<details>
+    <summary>📃 Resume</summary>
+
+  ## Education
+
 > **Data Analytics**<br>
 Masterschool, Berlin<br>
-Jan - Aug 2024<br><br>
+Jan 2024 - Aug 2024<br><br>
 ![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -21,6 +27,29 @@ Jan - Aug 2024<br><br>
 ![Static Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)<br>
+
+
+## Experience
+
+> **Data Analyst** <br>
+The Analytics Accelerator, Remote<br>
+May 2024 - July 2024<br><br>
+![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+> **Early Childhood Educator** <br>
+Engage Minds Learning, Bandar Seri Begawan<br>
+Oct 2015 - Jan 2021<br><br>
+![Static Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)<br>
+![Static Badge](https://img.shields.io/badge/Google%20Docs-2584fc?style=for-the-badge&logo=google-docs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+
+</details>
 
 <!--
 **siddeq-asmad/siddeq-asmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,8 +68,6 @@ Jan - Aug 2024<br><br>
 ![Static Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Static Badge](
-![Static Badge](
-
 ![Static Badge](
 ![Static Badge](
 ![Static Badge](
