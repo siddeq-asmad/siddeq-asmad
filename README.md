@@ -1,4 +1,4 @@
-## Hi, I'm Sid. 👋🏻
+# Hi, I'm Sid. 👋🏻
 
 ### Experience
 > **Data Analyst** <br>
