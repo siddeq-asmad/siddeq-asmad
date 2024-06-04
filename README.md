@@ -16,7 +16,7 @@
 
   ## Education
 
-> **Data Analytics**<br>
+> 🎓 **Data Analytics**<br>
 Masterschool, Berlin<br>
 Jan 2024 - Aug 2024<br><br>
 ![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -31,7 +31,7 @@ Jan 2024 - Aug 2024<br><br>
 
 ## Experience
 
-> **Data Analyst** <br>
+> 🧑🏻‍💻 **Data Analyst** <br>
 The Analytics Accelerator, Remote<br>
 May 2024 - July 2024<br><br>
 ![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -39,7 +39,7 @@ May 2024 - July 2024<br><br>
 ![Static Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-> **Early Childhood Educator** <br>
+> 🧑🏻‍🏫 **Early Childhood Educator** <br>
 Engage Minds Learning, Bandar Seri Begawan<br>
 Oct 2015 - Jan 2021<br><br>
 ![Static Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
