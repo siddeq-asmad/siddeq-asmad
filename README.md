@@ -2,12 +2,7 @@
   Hello, I'm Sid! 👋🏼
 </h1>
 
-<h2 align='center'>
-  I help my team turn <code>whats?</code> into <code>ahas!</code>
-  
 
-  
-</h2>
 
 <p align='center'>
   <a href="mailto:siddeqasmad@gmail.com">
@@ -104,6 +99,10 @@ Business Intelligence: Tableau
 Data Processing and Analysis: Excel, Python, SQL
 
 Here are some ideas to get you started:
+
+<h2 align='center'>
+  I help my team turn <code>whats?</code> into <code>ahas!</code>
+</h2>
 
  ...
 - ...
