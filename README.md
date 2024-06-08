@@ -1,6 +1,13 @@
 <h1 align='center'>
-  Hello, I'm Sid 👋🏼
+  Hello, I'm Sid! 👋🏼
 </h1>
+
+<h2 align='center'>
+  I help my team turn <code>whats?</code> into <code>ahas!</code>
+  
+
+  
+</h2>
 
 <p align='center'>
   <a href="mailto:siddeqasmad@gmail.com">
@@ -42,11 +49,11 @@ May 2024 - July 2024<br><br>
 > 🧑🏻‍🏫 **Early Childhood Educator** <br>
 Engage Minds Learning, Bandar Seri Begawan<br>
 Oct 2015 - Jan 2021<br><br>
-![Static Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)<br>
-![Static Badge](https://img.shields.io/badge/Google%20Docs-2584fc?style=for-the-badge&logo=google-docs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)<br>
+![Static Badge](https://img.shields.io/badge/Docs-2584fc?style=for-the-badge&logo=google-docs&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 
 </details>
