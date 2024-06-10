@@ -18,9 +18,12 @@
 
   ## Education
 
-> 🎓 **Data Analytics**<br>
-Masterschool, Berlin<br>
-Jan 2024 - Aug 2024<br><br>
+
+
+
+> 🎓 **Data Analytics** <br>
+Masterschool, Berlin <br>
+Jan 2024 - Aug 2024 <br><br>
 ![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
@@ -34,16 +37,16 @@ Jan 2024 - Aug 2024<br><br>
 ## Experience
 
 > 🧑🏻‍💻 **Data Analyst** <br>
-The Analytics Accelerator, Remote<br>
-May 2024 - July 2024<br><br>
+The Analytics Accelerator, Remote <br>
+May 2024 - July 2024 <br><br>
 ![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 > 🧑🏻‍🏫 **Early Childhood Educator** <br>
-Engage Minds Learning, Bandar Seri Begawan<br>
-Oct 2015 - Jan 2021<br><br>
+Engage Minds Learning, Bandar Seri Begawan <br>
+Oct 2015 - Jan 2021 <br><br>
 ![Static Badge](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)<br>
@@ -104,6 +107,14 @@ Here are some ideas to get you started:
   I help my team turn <code>whats?</code> into <code>ahas!</code>
 </h2>
 
+<img align="right" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
  ...
 - ...
 - 👯 I’m looking to collaborate on ...
